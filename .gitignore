@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Build
+*.o
+*.exe
+*.dll
+cmake-build-debug/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime data
+keys/
+uploads/
+logs/
+encrypt.log
+
+# Environment
+.env
+venv/
+.venv/
